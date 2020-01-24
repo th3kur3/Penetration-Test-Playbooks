@@ -2,8 +2,7 @@
 
 I started assembling the notes as a result of my typical testing strategy and then added to it after starting a ethical hacking course on Udemy. A big shout out to @thecybermentor for putting together a great course. If you are interested, go here: https://www.udemy.com/course/practical-ethical-hacking/
 
-If you want KeepNote, go here: 
-http://keepnote.org/index.shtml#download
+If you want KeepNote, go here: http://keepnote.org/index.shtml#download
 
 This is a collection of testing notes for what I consider budget constrained tests. I have found that, more times than not, sticking to these during testing engagements yields a plethora of feedback and recommendations to the client, especially when you are boxed into short engagement windows.
 
