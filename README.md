@@ -11,3 +11,8 @@ What is a short engagement window?, you may ask. Personally, I am involved in te
 As I continue to update my notebook I will update the repo, hopefully on a regular basis.
 
 Hopefully there are others that will find these useful to get started or spark an idea within yourselves.
+
+Instructions:
+Download tar.gz file
+Select "Restore" from File menu
+Locate the tar.gz file on your computer
